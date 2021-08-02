@@ -1,3 +1,3 @@
 # reviewScrapper
 
-## simple review scrapper from flipkart using python, flask
+## simple review scrapper for scrapping products review from flipkart website using python, flask

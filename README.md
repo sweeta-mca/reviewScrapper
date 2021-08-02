@@ -1,3 +1,15 @@
-# reviewScrapper
+# Product Review Scrapper
 
-## simple review scrapper for scrapping products review from flipkart website using python, flask
+Simple review scrapper for scrapping products review from flipkart website
+
+## Technologies
+
+  - Python
+  - Flask
+  - Beautiful Soup
+ 
+## Cloud Deployment
+
+ - [aws] (http://reviewscrapper-env.eba-srmtmk53.us-east-2.elasticbeanstalk.com/)
+ - [heroku] (https://flkscrapper.herokuapp.com/)
+ - [azure]

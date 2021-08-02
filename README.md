@@ -10,6 +10,6 @@ Simple review scrapper for scrapping products review from flipkart website
  
 ## Cloud Deployment
 
- - [aws] (http://reviewscrapper-env.eba-srmtmk53.us-east-2.elasticbeanstalk.com/)
- - [heroku] (https://flkscrapper.herokuapp.com/)
+ - [aws](http://reviewscrapper-env.eba-srmtmk53.us-east-2.elasticbeanstalk.com/)
+ - [heroku](https://flkscrapper.herokuapp.com/)
  - [azure]

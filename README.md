@@ -12,4 +12,5 @@ Simple review scrapper for scrapping products review from flipkart website
 
  - [aws](http://reviewscrapper-env.eba-srmtmk53.us-east-2.elasticbeanstalk.com/)
  - [heroku](https://flkscrapper.herokuapp.com/)
- - [azure]
+ - [azure](https://flkreview.azurewebsites.net)
+
